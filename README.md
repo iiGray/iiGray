@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Long Context Modeling
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +15,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+
+<table>
+<tr>
+<td width="20%">
+
+## 💬 About Me
+
+I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**.
+
+🔭 Research Focus
+* Large Language Models
+* Long Context Modeling
+* Training Framework
+
+## 📬 Contact
+Reach out me at: iiiigray19@gmail.com
+
+</td>
+<td width="20%">
+
+<img align="center" alt="status" src="static/status.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iiGray/iiGray/output/github-contribution-grid-snake-dark.svg">
