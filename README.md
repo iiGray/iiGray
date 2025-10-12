@@ -38,7 +38,7 @@ Reach out me at: iiiigray19@gmail.com
 </td>
 <td width="20%">
 
-<img align="center" alt="status" src="static/status.gif" width="100%"/>
+<img align="center" alt="status" src="static/coffee_and_work.gif" width="100%"/>
 
 </td>
 </tr>
