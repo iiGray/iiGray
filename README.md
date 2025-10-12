@@ -1,6 +1,3 @@
-
-## Hi 👋 I'm Baibei Ji
-
 <!--
 **iiGray/iiGray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,11 +20,13 @@ Here are some ideas to get you started:
 <tr>
 <td width="20%">
 
+## Hi 👋 I'm Baibei Ji
+
 ## 💬 About Me
 
 I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**.
 
-🔭 Research Focus
+🔭 Research Interests
 * Large Language Models
 * Long Context Modeling
 * Training Framework
