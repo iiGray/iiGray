@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 💬 About Me
 
-I am a **Master's student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**.
+**Master student** at the **Key Laboratory of Data Intelligence and Advanced Computing, Soochow University**.
 
 🔭 Research Interests
 * Large Language Models
