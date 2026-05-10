@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 🔭 Research Interests
 * Large Language Models
-* Long Context Modeling
-* Training Framework
+* Long Context
+* Agentic Memory
 
 ## 📬 Contact
-Reach out me at: iiiigray19@gmail.com
+Reach out to me at: iiiigray19@gmail.com
 
 </td>
 <td width="20%">
