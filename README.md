@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 💬 About Me
+## 👋 About Me
 
-🎓 **Master’s Student** in Computer Science  
-🏫 **School of Computer Science & Technology, Soochow University**
+🎓 Master’s Student at the **School of Computer Science & Technology, Soochow University**
 
-🔭 Research Interests
-- Large Language Models
-- Long Context
-- Agentic Memory
+🔬 **Research Interests:** Large Language Models · Long Context Modeling · Agentic Memory
 
 ## 📬 Contact
 Reach out to me at: iiiigray19@gmail.com
