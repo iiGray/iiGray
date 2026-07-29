@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 ---
 
-<table>
-<tr>
-<td width="20%">
-
-## Hi 👋 I'm Baibei Ji
-
 ## 💬 About Me
 
 **Master student** at the **School of Computer Science & Technology, Soochow University**.
@@ -33,16 +27,6 @@ Here are some ideas to get you started:
 
 ## 📬 Contact
 Reach out to me at: iiiigray19@gmail.com
-
-</td>
-<td width="20%">
-
-<img align="center" alt="status" src="static/coffee_and_work.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 
 
 <picture>
